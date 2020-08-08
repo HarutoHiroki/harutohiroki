@@ -16,9 +16,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=radical" />
+<br />
 
 ---
+
 <img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://is-really.fun
