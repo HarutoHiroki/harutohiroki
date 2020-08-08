@@ -28,8 +28,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=radical)](https://github.com/HarutoHiroki)
-<br />
-<br />
 
 ---
 
