@@ -31,8 +31,6 @@
 
 ---
 
-### Stats
-
 <img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://is-really.fun
