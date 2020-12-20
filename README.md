@@ -2,7 +2,7 @@
 
 ## I'm a Freelance Developer, partly streaming and loves to reverse engineer stuff!
 - 🔭 I’m currently working on a [Cryptonix X](https://is-really.fun/cryptonix)!
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Release Cryptonix X to the public
 
