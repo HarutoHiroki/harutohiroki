@@ -27,11 +27,10 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true&theme=radical)](https://github.com/HarutoHiroki)
-
----
-
-<img align="left" alt="HarutoHiroki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&show_icons=true&hide_border=true&theme=radical" />
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&show_icons=true&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutohiroki&layout=compact&hide_border=true&theme=radical" />
+</div>
 
 [website]: https://is-really.fun
 [twitter]: https://twitter.com/hiroaki_haruto
