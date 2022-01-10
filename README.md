@@ -2,9 +2,9 @@
 
 ## I'm a Freelance Developer, partly streaming and loves to reverse engineer stuff!
 - 🔭 I’m currently working on a [Cryptonix X](https://cryptonix.is-really.fun/)!
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning TypeScript and HTML 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Release Cryptonix X to the public
+- 🥅 2022 Goals: Release Cryptonix X to the public
 
 ### Connect with me:
 
