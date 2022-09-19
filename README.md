@@ -1,14 +1,14 @@
 ### Hi there, I'm Haruto Hiroki 👋
 
 ## I'm a Freelance Developer, partly streaming and loves to reverse engineer stuff!
-- 🔭 I’m currently working on a [Cryptonix X](https://cryptonix.is-really.fun/)!
+- 🔭 I’m currently working on a [Cryptonix X](https://cryptonix.harutohiroki.com/)!
 - 🌱 I’m currently learning TypeScript and HTML 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Release Cryptonix X to the public
+- 🥅 2022 Goals: Pass CS300
 
 ### Connect with me:
 
-[<img align="left" alt="is-really.fun" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="harutohiroki.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HarutoHiroki | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="HarutoHiroki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutohiroki&layout=compact&hide_border=true&theme=radical" />
 </div>
 
-[website]: https://is-really.fun
+[website]: https://harutohiroki.com
 [twitter]: https://twitter.com/hiroaki_haruto
 [twitch]: https://www.twitch.tv/harutohiroki
 [telegram]: https://t.me/harutohiroki
