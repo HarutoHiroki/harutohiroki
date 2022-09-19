@@ -1,7 +1,7 @@
 ### Hi there, I'm Haruto Hiroki 👋
 
 ## I'm a Freelance Developer, partly streaming and loves to reverse engineer stuff!
-- 🔭 I’m currently working on a [Cryptonix X](https://cryptonix.harutohiroki.com/)!
+- 🔭 I’m currently working on [Cryptonix X](https://cryptonix.harutohiroki.com/)!
 - 🌱 I’m currently learning Java and TypeScript 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Pass CS300
