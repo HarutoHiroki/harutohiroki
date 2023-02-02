@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Cryptonix X](https://cryptonix.harutohiroki.com/)!
 - 🌱 I’m currently learning Java and TypeScript 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Pass CS300
+- 🥅 2023 Goals: Pass CS400
 
 ### Connect with me:
 
