@@ -30,7 +30,10 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&hide_border=true&theme=radical" />
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=harutohiroki&layout=compact&langs_count=6&hide_border=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutohiroki&count_private=true&layout=compact&hide_border=true&theme=radical" />
+</div>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=harutohiroki&layout=compact&langs_count=6&hide_border=true&theme=radical"/>
 </div>
 
 [website]: https://harutohiroki.com
