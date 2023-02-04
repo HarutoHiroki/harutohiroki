@@ -8,23 +8,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="harutohiroki.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HarutoHiroki | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-[<img align="left" alt="HarutoHiroki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="harutohiroki.com" width="22px" src="./assets/globe.svg" />][website]
+[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
+[<img align="left" alt="HarutoHiroki | Twitch" width="22px" src="./assets/twitch.svg" />][twitch]
+[<img align="left" alt="HarutoHiroki | Telegram" width="22px" src="./assets/telegram.svg" />][telegram]
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="20px" src="./java.png" />
+<img align="left" alt="Java" width="20px" src="./assets/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="./mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />
-<img align="left" alt="GitHub" width="26px" src="./icons8-github-30.png" />
+<img align="left" alt="GitHub" width="26px" src="./assets/github.png" />
 <br />
 <br />
 
