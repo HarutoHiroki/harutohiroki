@@ -3,7 +3,7 @@
 ## I'm a Freelance Developer, Virtual Reality Enthusiasts and Music Lover!
 - 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [Paper++](https://github.com/Paper-Plus-Plus/PaperPlusPlus)
 - 🌱 I’m currently learning Java and TypeScript
-- 👯 I’m looking to collaborate with other developers
+- 👯 Collaborating with [Nico](https://github.com/nico-himself), [Sarah](https://github.com/sarah-i-rubenstein2), and [Lee](https://github.com/wenjielee11)
 - 🥅 2023 Goals: Pass CS400, Attend CanJam, Collect more IEM Measurements, Expand my Audio Knowledge
 
 ### Connect with me:
