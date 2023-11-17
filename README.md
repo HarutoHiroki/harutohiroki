@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [Paper++](https://github.com/Paper-Plus-Plus/PaperPlusPlus)
 - 🌱 I’m currently learning Java and TypeScript
 - 👯 Collaborating with [Lee](https://github.com/wenjielee11), [Nico](https://github.com/nico-himself), and [Sarah](https://github.com/sarah-i-rubenstein2)
-- 🥅 2023 Goals: Pass CS400, Attend CanJam, Collect more IEM Measurements, Expand my Audio Knowledge
+- 🥅 2023 Goals: Attend CanJam, Collect more IEM Measurements, Expand my Audio Knowledge
 
 ### Connect with me:
 
