@@ -1,10 +1,9 @@
 ### Hi there, I'm Haruto Hiroki 👋
 
 ## I'm a Freelance Developer, Virtual Reality Enthusiasts and Music Lover!
-- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension), [Paper++](https://github.com/Paper-Plus-Plus/PaperPlusPlus)
-- 🌱 I’m currently learning C and TypeScript
-- 👯 Collaborating with [Lee](https://github.com/wenjielee11), [Nico](https://github.com/nico-himself), and [Sarah](https://github.com/sarah-i-rubenstein2)
-- 🥅 2023 Goals: Attend CanJam, Collect more IEM Measurements, Expand my Audio Knowledge
+- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension)
+- 🌱 I’m currently learning Database Designs, React.JS
+- 🥅 2024 Goals: Survive
 
 ### Connect with me:
 
