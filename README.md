@@ -1,9 +1,9 @@
 ### Hi there, I'm Haruto Hiroki 👋
 
 ## I'm a Freelance Developer, Virtual Reality Enthusiasts and Music Lover!
-- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension)
-- 🌱 I’m currently learning Database Designs, React.JS
-- 🥅 2024 Goals: Survive
+- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension), [Homepage](https://harutohiroki.com)
+- 🌱 I’m currently learning Database Designs, Next.js, Tailwind CSS
+- 🥅 2024 Goals: Turn my pure HTML, CSS, JS website into a Next.JS React website
 
 ### Connect with me:
 
