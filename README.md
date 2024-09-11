@@ -2,8 +2,8 @@
 
 ## I'm a Freelance Developer, Virtual Reality Enthusiasts and Music Lover!
 - 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension), [Homepage](https://harutohiroki.com)
-- 🌱 I’m currently learning Database Designs, Next.js, Tailwind CSS
-- 🥅 2024 Goals: Turn my pure HTML, CSS, JS website into a Next.JS React website
+- 🌱 I’m currently learning Database Design and Management, Cybersecurity, Next.js, Tailwind CSS
+- ⭐ I'm attending these events in 2024: [CanJam NYC 2024](https://canjamglobal.com/attend/), [MadHacks](https://www.madhacks.io)
 
 ### Connect with me:
 
@@ -15,8 +15,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="./assets/ts-logo-128.png" />
 <img align="left" alt="Java" width="20px" src="./assets/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
