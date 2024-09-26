@@ -6,7 +6,6 @@
 - ⭐ I'm attending these events in 2024: [CanJam NYC 2024](https://canjamglobal.com/attend/), [MadHacks](https://www.madhacks.io)
 
 ### Connect with me:
-
 [<img align="left" alt="harutohiroki.com" width="22px" src="./assets/globe.svg" />][website]
 [<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
 [<img align="left" alt="HarutoHiroki | Twitch" width="22px" src="./assets/twitch.svg" />][twitch]
@@ -14,8 +13,8 @@
 <br />
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="./assets/ts-logo-128.png" />
 <img align="left" alt="Java" width="20px" src="./assets/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -24,6 +23,14 @@
 <img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />
 <img align="left" alt="GitHub" width="26px" src="./assets/github.png" />
+<br />
+
+<!---
+### Silly GitHub Widgets
+[![trophy](https://github-profile-trophy.vercel.app/?username=harutohiroki&theme=radical&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&theme=radical&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutohiroki&theme=radical&layout=compact" />
+-->
 
 [website]: https://harutohiroki.com
 [twitter]: https://twitter.com/harutohiroki
