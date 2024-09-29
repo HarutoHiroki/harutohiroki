@@ -25,7 +25,9 @@
 <img align="left" alt="GitHub" width="26px" src="./assets/github.png" />
 <br />
 
-<!---
+### What I've been up to:
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@harutohiroki/60232cf8-dd70-4a3b-bb93-2755fb32a79b.png" /></a>
+<!--
 ### Silly GitHub Widgets
 [![trophy](https://github-profile-trophy.vercel.app/?username=harutohiroki&theme=radical&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=harutohiroki&theme=radical&count_private=true&include_all_commits=true" />
