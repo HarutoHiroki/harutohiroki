@@ -3,7 +3,7 @@
 ## I'm a Freelance Developer, Virtual Reality Enthusiasts and Music Lover!
 - 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension), [Homepage](https://harutohiroki.com)
 - 🌱 I’m currently learning Database Design and Management, Cybersecurity, Next.js, Tailwind CSS
-- ⭐ I'm attending these events in 2024: [CanJam NYC 2024](https://canjamglobal.com/attend/)
+- ⭐ I'm attending these events in 2025: [CanJam NYC 2025](https://canjamglobal.com/attend/)
 
 ### Connect with me:
 [<img align="left" alt="harutohiroki.com" width="22px" src="./assets/globe.svg" />][website]
