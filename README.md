@@ -1,9 +1,9 @@
 ### Hi there, I'm Haruto👋
 
-## I'm a Freelance Developer, Virtual Reality Enthusiasts and Music Lover!
-- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [GraphExtension](https://github.com/HarutoHiroki/HarutoGraphExtension), [Homepage](https://harutohiroki.com)
-- 🌱 I’m currently learning Database Design and Management, Cybersecurity, Next.js, Tailwind CSS
-- ⭐ I'm attending these events in 2025: [CanJam Dallas 2025](https://canjamglobal.com/attend/)
+## I'm a master of writing mediocre code and engineering mediocre electronics.
+- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [Homepage](https://harutohiroki.com)
+- 🌱 I’m currently learning Cybersecurity
+- ⭐ I'm attending these events in 2026: [CanJam](https://canjamglobal.com/attend/)
 
 ### Connect with me:
 [<img align="left" alt="harutohiroki.com" width="22px" src="./assets/globe.svg" />][website]
