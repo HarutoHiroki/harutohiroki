@@ -1,30 +1,19 @@
-### Hi there, I'm Haruto👋
+# Hi there, I'm Haruto 
+I'm a master of writing mediocre code and engineering mediocre electronics. I usually work on open-source projects, but I've since pivoted and started working on fun, "for me only" projects.
 
-## I'm a master of writing mediocre code and engineering mediocre electronics.
-- 🔭 I’m currently working on [GraphTool](https://graphtool.harutohiroki.com/), [Homepage](https://harutohiroki.com)
-- 🌱 I’m currently learning Cybersecurity
-- ⭐ I'm attending these events in 2026: [CanJam](https://canjamglobal.com/attend/)
+I'm a massive advocate for anti-surveilance, pro-privacy tech, pro-ownership and open-source software, and I try to incorporate those values into my projects whenever possible. I also have a soft spot for retro tech and vintage computing, and I enjoy tinkering with old hardware and software just for the fun of it.
 
-### Connect with me:
-[<img align="left" alt="harutohiroki.com" width="22px" src="./assets/globe.svg" />][website]
-[<img align="left" alt="HarutoHiroki | Twitter" width="22px" src="./assets/twitter.svg" />][twitter]
-[<img align="left" alt="HarutoHiroki | Twitch" width="22px" src="./assets/twitch.svg" />][twitch]
-[<img align="left" alt="HarutoHiroki | Telegram" width="22px" src="./assets/telegram.svg" />][telegram]
-<br />
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="./assets/ts-logo-128.png" />
-<img align="left" alt="Java" width="20px" src="./assets/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="./assets/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" />
-<img align="left" alt="GitHub" width="26px" src="./assets/github.png" />
-<br />
+## Languages and Tools:
+### Backend:
+[![Backend](https://skillicons.dev/icons?i=js,cpp,c,nodejs,java,py)](https://skillicons.dev)
+### Frontend:
+[![Frontend](https://skillicons.dev/icons?i=ts,react,threejs,bootstrap,html,css,d3)](https://skillicons.dev)
+### Hardware:
+[![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+### Databases:
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](https://skillicons.dev)
+### Others:
+[![Others](https://skillicons.dev/icons?i=docker,k8s,gcp,aws,azure,cloudflare,vscode)](https://skillicons.dev)
 
 <!--
 ### What I've been up to:
@@ -35,8 +24,3 @@
 [![trophy](https://trophy.ryglcloud.net/?username=HarutoHiroki&theme=radical&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 <img height="170" align="left" src="https://github-readme-stats-fast.vercel.app/api?username=harutohiroki&theme=radical&count_private=true&include_all_commits=true" />
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harutohiroki&theme=radical&layout=compact" />
-
-[website]: https://harutohiroki.com
-[twitter]: https://twitter.com/harutohiroki
-[twitch]: https://www.twitch.tv/harutohiroki
-[telegram]: https://t.me/harutohiroki
