@@ -1,7 +1,7 @@
 # Hi there, I'm Haruto 
 I'm a master of writing mediocre code and engineering mediocre electronics. I usually work on open-source projects, but I've since pivoted and started working on fun, "for me only" projects.
 
-I'm a massive advocate for anti-surveilance, pro-privacy tech, pro-ownership and open-source software, and I try to incorporate those values into my projects whenever possible. I also have a soft spot for retro tech and vintage computing, and I enjoy tinkering with old hardware and software just for the fun of it.
+I'm a massive advocate for anti-surveilance, pro-privacy, pro-ownership, and open-source software, and I try to incorporate those values into my projects whenever possible. I also have a soft spot for retro tech and vintage computing, and I enjoy tinkering with old hardware and software just for the fun of it.
 
 ## Languages and Tools:
 ### Backend:
