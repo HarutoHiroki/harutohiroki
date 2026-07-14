@@ -23,4 +23,4 @@ I'm a massive advocate for anti-surveilance, pro-privacy, pro-ownership, and ope
 ### Silly GitHub Widgets
 [![trophy](https://trophy.ryglcloud.net/?username=HarutoHiroki&theme=radical&title=-Issues,-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 <img height="170" align="left" src="https://github-readme-stats-fast.vercel.app/api?username=harutohiroki&theme=radical&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harutohiroki&theme=radical&layout=compact" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harutohiroki&theme=radical&layout=compact&langs_count=8" />
