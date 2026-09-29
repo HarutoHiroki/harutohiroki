@@ -3,17 +3,21 @@ I'm a master of writing mediocre code and engineering mediocre electronics. I us
 
 I'm a massive advocate for anti-surveilance, pro-privacy, pro-ownership, and open-source software, and I try to incorporate those values into my projects whenever possible. I also have a soft spot for retro tech and vintage computing, and I enjoy tinkering with old hardware and software just for the fun of it.
 
+If you wanna see where I host my actual important code, check out my personal Forgejo [git.harutohiroki.com](https://git.harutohiroki.com) and my Org Forgejo [git.shitpost.work](https://git.shitpost.work)
+
 ## Languages and Tools:
 ### Backend:
 [![Backend](https://skillicons.dev/icons?i=js,cpp,c,nodejs,java,py)](https://skillicons.dev)
 ### Frontend:
 [![Frontend](https://skillicons.dev/icons?i=ts,react,threejs,bootstrap,html,css,d3)](https://skillicons.dev)
+### Infrastructure:
+[![Infrastructure](https://skillicons.dev/icons?i=nix,terraform,ansible)](https://skillicons.dev)
 ### Hardware:
 [![Hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 ### Databases:
 [![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,mysql)](https://skillicons.dev)
 ### Others:
-[![Others](https://skillicons.dev/icons?i=docker,k8s,gcp,aws,azure,cloudflare,vscode)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=docker,k8s,gcp,aws,azure,cloudflare,vscode,githubactions)](https://skillicons.dev)
 
 <!--
 ### What I've been up to:
