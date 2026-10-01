@@ -3,7 +3,7 @@ I'm a master of writing mediocre code and engineering mediocre electronics. I us
 
 I'm a massive advocate for anti-surveilance, pro-privacy, pro-ownership, and open-source software, and I try to incorporate those values into my projects whenever possible. I also have a soft spot for retro tech and vintage computing, and I enjoy tinkering with old hardware and software just for the fun of it.
 
-If you wanna see where I host my actual important code, check out my personal Forgejo [git.harutohiroki.com](https://git.harutohiroki.com) and my Org Forgejo [git.shitpost.work](https://git.shitpost.work)
+If you wanna see where I host my actual important code, check out my personal Forgejo [git.harutohiroki.com](https://git.harutohiroki.com) and my Org Forgejo [git.shitpost.work](https://git.shitpost.work); code here are just mirrors of code over there anyways.
 
 ## Languages and Tools:
 ### Backend:
